@@ -1,1 +1,1 @@
-Sitemap: asd/sitemap.xml
+Sitemap: https://simongrendeus.github.io/sitemap.xml

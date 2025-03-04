@@ -3,7 +3,7 @@ project:
 
 website:
   title: "Simon Grendéus"
-  site-url: asd
+  site-url: https://simongrendeus.github.io
   description: "Blog about reptiles, reptile cognition, and evolution"
   navbar:
     right:
