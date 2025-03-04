@@ -1,14 +1,13 @@
 ---
-title: "quarto blog"
-listing:
-  contents: posts
-  sort: "date desc"
-  type: default
-  categories: true
-  sort-ui: false
-  filter-ui: false
-page-layout: full
-title-block-banner: true
+title: "About"
+image: profile.jpg
+about:
+  template: jolla
+  links:
+    - icon: bluesky
+      text: Bluesky
+      href: https://bsky.app/profile/grendeus.bsky.social
+
 ---
 
-
+About this blog

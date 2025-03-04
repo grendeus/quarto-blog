@@ -1,0 +1,9 @@
+---
+title: "Everything there is to know about crocodilian cognition"
+author: "Simon Grendéus"
+date: "2025-03-04"
+categories: [crocs]
+image: "image.jpg"
+---
+
+This is a post with executable code.

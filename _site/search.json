@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Everything there is to know about crocodilian cognition",
+    "section": "",
+    "text": "This is a post with executable code."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Malachite crocodile",
+    "section": "",
+    "text": "Everything there is to know about crocodilian cognition\n\n\n\n\n\n\ncrocs\n\n\n\n\n\n\n\n\n\nMar 4, 2025\n\n\nSimon Grendéus\n\n\n\n\n\n\n\n\n\n\n\n\nMetabolism\n\n\n\n\n\n\ncognition\n\n\nautonomy\n\n\nmetabolism\n\n\n\n\n\n\n\n\n\nMar 4, 2025\n\n\nSimon Grendéus\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/second post/index.html",
+    "href": "posts/second post/index.html",
+    "title": "Metabolism",
+    "section": "",
+    "text": "Whatever"
+  },
+  {
+    "objectID": "posts/post-with-code/croc.html",
+    "href": "posts/post-with-code/croc.html",
+    "title": "Everything there is to know about crocodilian cognition",
+    "section": "",
+    "text": "This is a post with executable code."
+  },
+  {
+    "objectID": "posts/second post/metabolism.html",
+    "href": "posts/second post/metabolism.html",
+    "title": "Metabolism",
+    "section": "",
+    "text": "Whatever"
+  }
+]

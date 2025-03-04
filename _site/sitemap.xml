@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>asd/blog.html</loc>
+    <lastmod>2025-03-04T16:19:08.948Z</lastmod>
+  </url>
+  <url>
+    <loc>asd/posts/second post/index.html</loc>
+    <lastmod>2025-03-04T16:15:01.818Z</lastmod>
+  </url>
+  <url>
+    <loc>asd/index.html</loc>
+    <lastmod>2025-03-04T16:06:10.886Z</lastmod>
+  </url>
+  <url>
+    <loc>asd/posts/post-with-code/index.html</loc>
+    <lastmod>2025-03-04T16:02:46.581Z</lastmod>
+  </url>
+  <url>
+    <loc>asd/posts/post-with-code/croc.html</loc>
+    <lastmod>2025-03-04T16:16:34.817Z</lastmod>
+  </url>
+  <url>
+    <loc>asd/posts/second post/metabolism.html</loc>
+    <lastmod>2025-03-04T16:15:01.818Z</lastmod>
+  </url>
+</urlset>

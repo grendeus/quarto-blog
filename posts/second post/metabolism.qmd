@@ -1,0 +1,8 @@
+---
+title: "Metabolism"
+author: "Simon Grendéus"
+date: "2025-03-04"
+categories: [cognition, autonomy, metabolism]
+---
+
+Whatever
